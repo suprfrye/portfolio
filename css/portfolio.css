@@ -1,0 +1,38 @@
+body {
+  font-family: 'Pontano Sans', sans-serif;
+}
+
+.wrapper {
+  height: 100vh;
+}
+
+#about {
+  min-height: 100%;
+  background-image: url("../img/endpos.jpg");
+  background-size: cover;
+}
+
+#about p {
+  position: absolute;
+  bottom: 20%;
+  color: white;
+  font-size: 2em;
+}
+
+#footer {
+  background-color: white;
+  padding: 1.5%;
+}
+
+#footer h1 {
+  line-height: 0.75%;
+}
+
+#footer h3 {
+padding-left: 10%;
+color: gray;
+}
+
+#footer div {
+  padding-left: 10%;
+}
