@@ -69,3 +69,13 @@ color: gray;
   background-size: cover;
   background-position: center;
 }
+
+.description {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  color: white;
+  visibility: hidden;
+  left: 0;
+}
