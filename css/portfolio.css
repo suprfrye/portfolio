@@ -36,3 +36,8 @@ color: gray;
 #footer div {
   padding-left: 10%;
 }
+
+.image {
+  height: 350px;
+  margin: 0.5%;
+}
