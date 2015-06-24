@@ -93,3 +93,8 @@ color: gray;
   margin-left: 10%;
   font-size: 1.5em;
 }
+
+.image:hover .description {
+  visibility: visible;
+  background: rgba(0,0,0,0.8);
+}
