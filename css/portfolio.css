@@ -47,3 +47,9 @@ color: gray;
   background-size: cover;
   background-position: center;
 }
+
+#line-cook {
+  background-image: url("../img/port-line-cook.png");
+  background-size: cover;
+  background-position: center;
+}
