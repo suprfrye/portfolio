@@ -59,3 +59,8 @@ color: gray;
   background-size: cover;
   background-position: center;
 }
+
+#survey-gorilla {
+  background-image: url("../img/port-gorilla.png");
+  background-size: cover;
+}
