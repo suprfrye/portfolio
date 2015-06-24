@@ -87,3 +87,9 @@ color: gray;
 .github {
   color: #49E9BD;
 }
+
+.description p {
+  margin-right: 10%;
+  margin-left: 10%;
+  font-size: 1.5em;
+}
