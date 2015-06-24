@@ -41,3 +41,9 @@ color: gray;
   height: 350px;
   margin: 0.5%;
 }
+
+#room-service {
+  background-image: url("../img/port-room-service.png");
+  background-size: cover;
+  background-position: center;
+}
