@@ -64,3 +64,9 @@ color: gray;
   background-image: url("../img/port-gorilla.png");
   background-size: cover;
 }
+
+#galaxy-256 {
+  background-image: url("../img/port-256.png");
+  background-size: cover;
+  background-position: center;
+}
