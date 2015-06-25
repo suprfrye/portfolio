@@ -67,6 +67,7 @@ color: gray;
 #survey-gorilla {
   background-image: url("../img/port-gorilla.png");
   background-size: cover;
+  margin-right: 0.75%;
 }
 
 #galaxy-256 {
