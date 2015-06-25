@@ -41,6 +41,10 @@ color: gray;
   padding-left: 10%;
 }
 
+#footer a {
+  color: #333;
+}
+
 .image {
   height: 42vh;
 }
