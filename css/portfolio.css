@@ -45,6 +45,10 @@ color: #829db4;
   color: #333;
 }
 
+#footer a:hover {
+  color: #829db4;
+}
+
 #portfolio {
   padding-top: 1.5%;
   height: 100%;
