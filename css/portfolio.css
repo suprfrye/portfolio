@@ -45,6 +45,12 @@ color: #829db4;
   color: #333;
 }
 
+#portfolio {
+  padding-top: 1.5%;
+  height: 100%;
+  background-color: #d3d3d3;
+}
+
 .image {
   height: 42vh;
   border: 1px solid #d3d3d3;
