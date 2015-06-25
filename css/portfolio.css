@@ -2,6 +2,10 @@ body {
   font-family: 'Pontano Sans', sans-serif;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 .wrapper {
   height: 100vh;
 }
