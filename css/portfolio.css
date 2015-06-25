@@ -52,6 +52,9 @@ color: gray;
   background-image: url("../img/port-line-cook.png");
   background-size: cover;
   background-position: center;
+  margin-left: 0.75%;
+  margin-right: 0.75%;
+  margin-bottom: 0.75%;
 }
 
 #deviltea {
