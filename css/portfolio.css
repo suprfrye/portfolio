@@ -45,6 +45,7 @@ color: gray;
   background-image: url("../img/port-room-service.png");
   background-size: cover;
   background-position: center;
+  margin-bottom: 0.75%;
 }
 
 #line-cook {
