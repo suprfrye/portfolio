@@ -15,7 +15,7 @@ a:hover {
   background-size: cover;
 }
 
-#home nav a, .port-nav a {
+#home nav a, .port-nav a, .port-footer {
   color: #fff;
 }
 
