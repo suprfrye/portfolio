@@ -47,6 +47,10 @@ a:hover {
   color: #333;
 }
 
+i {
+  color: #829db4;
+}
+
 #footer a:hover {
   color: #829db4;
 }
