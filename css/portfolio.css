@@ -15,6 +15,10 @@ a:hover {
   background-size: cover;
 }
 
+#home nav a {
+  color: #fff;
+}
+
 #about p {
   position: absolute;
   bottom: 20%;
