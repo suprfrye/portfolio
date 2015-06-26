@@ -51,7 +51,7 @@ i {
   color: #829db4;
 }
 
-#footer a:hover {
+#footer a:hover, a.navbar-brand:hover {
   color: #829db4;
 }
 
