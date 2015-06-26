@@ -52,6 +52,10 @@ color: #829db4;
   color: #829db4;
 }
 
+.port-nav, .port-footer {
+  background-color: #3f3f3f;
+}
+
 #portfolio {
   padding-top: 1.5%;
   height: 100%;
