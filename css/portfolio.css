@@ -59,6 +59,10 @@ i {
   background-color: #3f3f3f;
 }
 
+.port-footer, .port-footer a {
+  color: #fff;
+}
+
 #portfolio {
   padding-top: 1.5%;
   height: 100%;
