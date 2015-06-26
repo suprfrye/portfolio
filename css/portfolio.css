@@ -10,8 +10,7 @@ a:hover {
   height: 100vh;
 }
 
-#about {
-  min-height: 100%;
+#home {
   background-image: url("../img/endpos.jpg");
   background-size: cover;
 }
