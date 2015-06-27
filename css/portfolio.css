@@ -124,7 +124,27 @@ i {
   font-size: 1.5em;
 }
 
-.image:hover .description {
+#room-service:hover .description {
   visibility: visible;
-  background: rgba(50,50,50,0.9);
+  background: rgba(183,50,255,0.9);
+}
+
+#line-cook:hover .description {
+  visibility: visible;
+  background: rgba(255,80,50,0.9);
+}
+
+#deviltea:hover .description {
+  visibility: visible;
+  background: rgba(50,122,255,0.9);
+}
+
+#survey-gorilla:hover .description {
+  visibility: visible;
+  background: rgba(50,255,183,0.9);
+}
+
+#galaxy-256:hover .description {
+  visibility: visible;
+  background: rgba(255,183,50,0.9);
 }
