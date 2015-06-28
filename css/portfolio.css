@@ -108,7 +108,7 @@ i {
   background-position: center;
 }
 
-.description {
+div.description {
   position: absolute;
   height: 100%;
   width: 100%;
