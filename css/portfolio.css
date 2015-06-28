@@ -156,6 +156,7 @@ div.description {
 }
 
 #room-service:hover .description {
+/*#room-service:hover .description {
   visibility: visible;
   background: rgba(183,50,255,0.9);
 }
@@ -178,7 +179,7 @@ div.description {
 #galaxy-256:hover .description {
   visibility: visible;
   background: rgba(255,183,50,0.9);
-}
+}*/
 
 .description h3 a:hover {
   text-decoration: underline;
