@@ -49,6 +49,20 @@ a:hover {
 
 i {
   color: #829db4;
+#li-about a:hover {
+  background-color: #ff5032;
+}
+
+#li-port a:hover {
+  background-color: #b732ff;
+}
+
+#li-contact a:hover {
+  background-color: #327aff;
+}
+
+#li-about, #li-port, #li-contact {
+  background-color: #151515;
 }
 
 #footer a:hover, a.navbar-brand:hover {
