@@ -95,6 +95,9 @@ li.active {
 .image {
   height: 42vh;
   border: 1px solid #d3d3d3;
+  -webkit-box-shadow: -5px 6px 12px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: -5px 6px 12px 0px rgba(0,0,0,0.75);
+  box-shadow: -5px 6px 12px 0px rgba(0,0,0,0.75);
 }
 
 #room-service {
