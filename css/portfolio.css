@@ -116,6 +116,10 @@ div.description {
   color: #fff;
   visibility: hidden;
   left: 0;
+  -webkit-transition: background 1s ease;
+  -moz-transition: background 1s ease;
+  -o-transition: background 1s ease;
+  transition: background 1s ease;
 }
 
 .description p {
