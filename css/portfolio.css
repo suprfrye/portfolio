@@ -52,6 +52,7 @@ i {
 }
 
 #li-about a:hover {
+/*#li-about a:hover {
   background-color: #ff5032;
 }
 
@@ -61,7 +62,7 @@ i {
 
 #li-contact a:hover {
   background-color: #327aff;
-}
+}*/
 
 .port-nav li {
   background-color: #151515;
