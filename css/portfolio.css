@@ -51,7 +51,10 @@ i {
   color: #32ffb7;
 }
 
-#li-about a:hover {
+.port-nav ul a:hover {
+  background-color: #32ffb7;
+}
+
 /*#li-about a:hover {
   background-color: #ff5032;
 }
