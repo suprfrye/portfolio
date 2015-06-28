@@ -63,7 +63,7 @@ i {
   background-color: #327aff;
 }
 
-#li-about, #li-port, #li-contact {
+.port-nav li {
   background-color: #151515;
 }
 
