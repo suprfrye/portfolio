@@ -55,17 +55,16 @@ i {
   background-color: #32ffb7;
 }
 
-/*#li-about a:hover {
+#li-about {
   background-color: #ff5032;
 }
 
-#li-port a:hover {
+#li-port {
   background-color: #b732ff;
 }
 
-#li-contact a:hover {
+#li-contact {
   background-color: #327aff;
-}*/
 }
 
 #footer a:hover, a.navbar-brand:hover {
