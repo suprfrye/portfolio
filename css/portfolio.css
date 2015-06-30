@@ -34,8 +34,9 @@ a:hover {
 
 #about p {
   position: absolute;
-  bottom: 20%;
-  color: white;
+  color: #fff;
+}
+
 #intro {
   text-align: center;
   font-size: 2em;
