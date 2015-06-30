@@ -37,6 +37,10 @@ a:hover {
   bottom: 20%;
   color: white;
   font-size: 2em;
+#intro span {
+  color: #32ffb7;
+}
+
 #quote {
   bottom: 20%;
   font-size: 1.5em;
