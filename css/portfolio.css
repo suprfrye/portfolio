@@ -36,7 +36,13 @@ a:hover {
   position: absolute;
   bottom: 20%;
   color: white;
+#intro {
+  text-align: center;
   font-size: 2em;
+  bottom: 60%;
+  padding: 5%;
+}
+
 #intro span {
   color: #32ffb7;
 }
