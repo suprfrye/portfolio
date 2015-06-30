@@ -19,6 +19,11 @@ a:hover {
   color: #fff;
 }
 
+#home .navbar-nav a:hover, #home a.navbar-brand:hover {
+  background-color: transparent;
+  color: #32ffb7;
+}
+
 #about p {
   position: absolute;
   bottom: 20%;
