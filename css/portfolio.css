@@ -28,8 +28,10 @@ a:hover {
 }
 
 #home .navbar-nav a:hover, #home a.navbar-brand:hover {
+#home .navbar-nav a:hover, #home .navbar-nav .current {
   background-color: transparent;
   color: #32ffb7;
+  border-bottom: 2px solid #32ffb7;
 }
 
 #about p {
