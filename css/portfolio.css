@@ -55,8 +55,14 @@ a:hover {
 
 /*#quote {
   bottom: 5%;
+#about .btn {
+  display: block;
+  color: #fff;
+  background-color: #23b280;
+  border-style: none;
   font-size: 1.5em;
-}*/
+}
+
 #about a:hover {
   background-color: #545454;
 }
