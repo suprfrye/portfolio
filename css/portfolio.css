@@ -53,8 +53,10 @@ a:hover {
   color: #32ffb7;
 }
 
-/*#quote {
-  bottom: 5%;
+#explore {
+  bottom: 45%;
+}
+
 #about .btn {
   display: block;
   color: #fff;
