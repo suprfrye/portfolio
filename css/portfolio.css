@@ -224,3 +224,7 @@ div.description {
 .description a:hover {
   text-decoration: underline;
 }
+
+.description .special {
+  font-size: 1em
+}
