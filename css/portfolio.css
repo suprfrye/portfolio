@@ -191,6 +191,10 @@ div.description {
   font-size: 1.5em;
 }
 
+.description a {
+  color: #fff;
+}
+
 #room-service:hover .description {
   visibility: visible;
   background: rgba(183,50,255,0.9);
