@@ -83,7 +83,7 @@ i {
   color: #32ffb7;
 }
 
-.port-nav ul a:hover {
+.port-nav ul a:hover, .port-nav .current {
   background-color: #32ffb7;
 }
 
