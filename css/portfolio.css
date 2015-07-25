@@ -90,7 +90,12 @@ a:hover {
   color: #333;
 }
 
-i {
+#footer li {
+  margin-top: 5%;
+  margin-right: 10%;
+}
+
+#footer a:hover, a.navbar-brand:hover {
   color: #32ffb7;
 }
 
