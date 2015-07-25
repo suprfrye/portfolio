@@ -220,6 +220,6 @@ div.description {
   background: rgba(255,183,50,0.9);
 }
 
-.description h3 a:hover {
+.description a:hover {
   text-decoration: underline;
 }
