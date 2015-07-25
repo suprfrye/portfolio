@@ -103,15 +103,11 @@ i {
 }
 
 #li-port {
-  background-color: #b732ff;
-}
-
-#li-contact {
   background-color: #327aff;
 }
 
-#footer a:hover, a.navbar-brand:hover {
-  color: #32ffb7;
+#li-contact {
+  background-color: #b732ff;
 }
 
 .port-nav, .port-footer {
