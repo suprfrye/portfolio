@@ -122,36 +122,36 @@ a:hover {
 }
 
 #room-service {
-  background-image: url("../img/room-service-blk.png");
+  background-image: url("../img/room-service.png");
   background-size: cover;
   background-position: center;
   margin-bottom: 1.25%;
 }
 
 #line-cook {
-  background-image: url("../img/line-cook-blk.png");
+  background-image: url("../img/line-cook.png");
   background-size: cover;
   background-position: center;
-  margin-left: 0.75%;
-  margin-right: 0.75%;
+  margin-left: 1%;
+  margin-right: 1%;
   margin-bottom: 1.25%;
 }
 
 #deviltea {
-  background-image: url("../img/deviltea-blk.png");
+  background-image: url("../img/deviltea.png");
   background-size: cover;
   background-position: center;
   margin-bottom: 1.25%;
 }
 
 #survey-gorilla {
-  background-image: url("../img/gorilla-blk.png");
+  background-image: url("../img/gorilla.png");
   background-size: cover;
-  margin-right: 0.75%;
+  margin-right: 1%;
 }
 
 #galaxy-256 {
-  background-image: url("../img/galaxy-256.png");
+  background-image: url("../img/256.png");
   background-size: cover;
   background-position: center;
 }
