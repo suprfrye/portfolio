@@ -96,10 +96,6 @@ a:hover {
   margin-right: 10%;
 }
 
-#footer a:hover, a.navbar-brand:hover {
-  color: #32ffb7;
-}
-
 .port-nav ul a:hover, .port-nav .current {
   background-color: #32ffb7;
 }
@@ -110,6 +106,10 @@ a:hover {
 
 .port-footer, .port-footer a {
   color: #fff;
+}
+
+#footer a:hover, a.navbar-brand:hover, i:hover {
+  color: #32ffb7;
 }
 
 #portfolio {
